@@ -1,4 +1,4 @@
-************************************************ Fundamentos de NodeJS *****************************************************
+************************************************ FUNDAMENTOS DE NODEJS *****************************************************
 Concepto: Entorno de ejecución para JavaScript, que permite ejecutar codigo JavaScript fuera de los navegadores Web, ya sea
 dentro de un procesador, servidor o para crear App de escritorio, IoT, API etc.
 
